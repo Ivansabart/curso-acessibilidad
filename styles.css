@@ -103,6 +103,7 @@ body {
 .intro {
   margin: 0 196px;
   font-family: var(--secondary-font);
+  color: antiquewhite
 }
 
 .social-media {
